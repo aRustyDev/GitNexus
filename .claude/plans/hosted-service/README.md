@@ -75,6 +75,7 @@ Flagged while writing the backlog; confirm or refute each early, because they ch
 | Path | What it is | Exists |
 |---|---|---|
 | `PROMPT.md` | Trigger prompt — review, ground, refine the backlog. | ✅ |
+| `FOLLOWUP.md` | Second prompt — reflect the refinement into Plane/beads, then execute tranche one. | ✅ |
 | `FINDINGS.md` | Per-item verdicts and the risk register. | ⬜ |
 | `RESEARCH.md` | Codebase archaeology backing those verdicts. | ⬜ |
 | `adrs/` | Open / plan-scoped ADRs. | ⬜ |
